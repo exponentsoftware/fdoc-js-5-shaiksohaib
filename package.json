@@ -1,0 +1,25 @@
+{
+  "name": "fdoc-js-5-shaiksohaib",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "fetchAllTypeLanguage.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-js-5-shaiksohaib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-js-5-shaiksohaib/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-js-5-shaiksohaib#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "node-fetch": "^3.0.0"
+  }
+}
